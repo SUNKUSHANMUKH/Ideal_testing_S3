@@ -550,5 +550,3 @@ Citations / Docs I used for the important rules above
 - S3 storage metrics (BucketSizeBytes, NumberOfObjects) are daily. ([AWS Documentation](https://docs.aws.amazon.com/AmazonS3/latest/userguide/metrics-dimensions.html?utm_source=chatgpt.com))
 - CloudWatch GetMetricData API (better for large/multi metric queries). ([AWS Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_GetMetricData.html?utm_source=chatgpt.com))
 - CloudWatch metric resolution and retention notes (periods: 1 min, 5 min, etc.). ([AWS Documentation](https://docs.aws.amazon.com/AmazonCloudWatch/latest/APIReference/API_GetMetricStatistics.html?utm_source=chatgpt.com))
- Cost Explorer get_cost_and_usage (boto3 docs + need to enable CE).  FILE ](https://www.notion.so/ON-SAME-FILE-2be82dd28116801b90d7cb36bb4a05d8?pvs=21)
-
